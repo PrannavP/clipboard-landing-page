@@ -1,1 +1,2 @@
-This is a challenge from www.frontendmentor.io. In this project i have made a desktop site.
+This is a challenge from www.frontendmentor.io. In this project i have made a Clipboard Landing Site for desktop screen size.
+Link for the challenge is https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9.
